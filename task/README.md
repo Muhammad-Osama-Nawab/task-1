@@ -103,3 +103,27 @@ b.e stands for Back-end  , it recieved request from front end and passes it to t
 if the person search the product if it is not save in database then it will not give the repective result
 </li>
 </ol>
+<hr>
+<h2>Curring Function</h2>
+<p>
+curring function is the function which returns a new function in it we have to  give arguments singularly 
+</p>
+<ol>
+<li>
+i have made a function with the name of fees and give a parameter
+store the function into a variable with the name of fee
+</li>
+<li>
+as the previous function gives return value in it we have another function  
+now we will give argument to the variable with the name of fee as he stroed function
+</li>
+<li>
+inoreder to call that function we have made an other variable with the name of p now again it contain return having an other function in it 
+</li>
+<li>
+so we have to again give the arguments to p now in p we have last function which returns the value  
+</li>
+</ol>
+<p>
+in this way we gave arguments single by single to the functions  
+</p>

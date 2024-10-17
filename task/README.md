@@ -127,3 +127,26 @@ so we have to again give the arguments to p now in p we have last function which
 <p>
 in this way we gave arguments single by single to the functions  
 </p>
+
+
+<hr>
+<h2>daraz</h2>
+<h4>Stateless api</h4>
+<p>
+stateless api are those api which dont have any kind of data they just takes our request to the server and get the request from  the server without saving any data  
+</p>
+<h4>Authentication </h4>
+<p>
+it checks the person that are going to log in is authentic means the password and the user name he added is saved in database or not in case of daraz it will open our prfile if the password and gmail are correct
+</p>
+<h4>Autherization</h4>
+<p>
+in autherization it checks that are you elligibal to do such a particular task .such as  in the scenerio of daraz if your account is not a seller account but you want to sell on daraz then you are not elligibal for that
+</p>
+<h4>Private Api</h4>
+<p>
+if he talk about daraz if you want to buy something then you have loggd in to buy something
+if you are not logged in it will not allow you to buy in private api it stores the token of the current request of the user on the basis of that token it gives reponses to that particular person 
+</p>
+<h4>Public api</h4>
+<p> like we go to the website of daraz and we dont have account on it we can only view the products but we can not buy or sell something</p>

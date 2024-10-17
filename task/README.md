@@ -150,3 +150,26 @@ if you are not logged in it will not allow you to buy in private api it stores t
 </p>
 <h4>Public api</h4>
 <p> like we go to the website of daraz and we dont have account on it we can only view the products but we can not buy or sell something</p>
+<hr>
+<h2>Request and Response of api </h2>
+<ol>
+<li>
+Get
+</li>
+<p>get method is used to fetch data from api when we talk about daraz if we search something in search bar then we are using get method we are requesting to get the specific data  </p>
+<li>
+post
+</li>
+<p>post method is used to put something through api when we talk about daraz if i want to give review to a seller then i will post the images of the product and write my review as a post   </p>
+<li>
+Delete
+</li>
+<p>Delete method is used to delete data through api when we talk about daraz if the seller compensate and send some alternate goods then i will delete the post from the wall of the seller  </p>
+
+<li>
+Patch
+</li>
+<p>Patch method is used to change the all data through api when we talk about daraz if i have posted about watch  then i poseted about shoes mean to say i change all the data chenged pic of watch with shoes and my comments with the shoes comments now  i totally changed my post all to all this will refer as a patch   </p>
+
+
+</ol>
